@@ -1,5 +1,9 @@
 # E-Commerce Global Sales Dashboard
 
+![Google Looker Studio](https://img.shields.io/badge/Google%20Looker%20Studio-Dashboard-blue)
+![Data Analytics](https://img.shields.io/badge/Data%20Analytics-Portfolio-green)
+![Business Intelligence](https://img.shields.io/badge/Business%20Intelligence-Project-orange)
+
 Interactive Google Looker Studio Dashboard for analyzing **USD 8.02M global e-commerce sales** with insights into sales performance, profitability, customer segments, regional distribution, product categories, and discount strategies.
 
 ## 📊 Dashboard Preview
@@ -49,8 +53,8 @@ Provides an overview of key performance indicators (KPIs):
 - Total Profit: **USD 3.73M**
 - Total Orders: **51.3K**
 - Total Quantity Sold: **153.8K**
-- Average Discount: **0.0**
-- Profit Margin: **0.5**
+- Average Discount: **0%**
+- Profit Margin: **50%**
 
 The executive summary provides an overview of global e-commerce performance by highlighting revenue generation, profitability, order volume, and operational performance. The dashboard shows strong sales performance with **USD 8.02M in total sales** and **USD 3.73M in total profit**, indicating effective business performance and profitable operations.
 
@@ -160,9 +164,9 @@ The dataset contains global e-commerce transaction data with information includi
 - Discount
 - Geographic regions
 
-Dataset Source:
+Dataset File:
 
-🔗 Google Sheets: [https://docs.google.com/spreadsheets/xxxxx](https://docs.google.com/spreadsheets/d/1q0QDSXCtfy0kzrGLWalTDcpzvUrxJ_ddegcViKaxmKk/edit?usp=sharing)
+📂 dataset/ecommerce_global_sales_data.xlsx
 
 ---
 
