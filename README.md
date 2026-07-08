@@ -46,10 +46,13 @@ The dashboard aims to answer key business questions:
 Provides an overview of key performance indicators (KPIs):
 
 - Total Sales: **USD 8.02M**
-- Total Profit
-- Total Orders
-- Customer Performance
-- Overall Business Performance
+- Total Profit: **USD 3.73M**
+- Total Orders: **51.3K**
+- Total Quantity Sold: **153.8K**
+- Average Discount: **0.0**
+- Profit Margin: **0.5**
+
+The executive summary provides an overview of global e-commerce performance by highlighting revenue generation, profitability, order volume, and operational performance. The dashboard shows strong sales performance with **USD 8.02M in total sales** and **USD 3.73M in total profit**, indicating effective business performance and profitable operations.
 
 ---
 
@@ -167,11 +170,12 @@ Dataset Source:
 
 The dashboard provides several business insights:
 
-- Generated analysis from **USD 8.02M global e-commerce sales data**
-- Identified high-performing product categories and regions
-- Evaluated customer segment contribution to overall sales
-- Analyzed the impact of discount strategies on profitability
-- Supported business decision-making through data visualization
+- Generated analysis from **USD 8.02M global e-commerce sales data** with **USD 3.73M total profit**.
+- Achieved **51.3K total orders** with **153.8K units sold**, showing strong customer purchasing activity.
+- Maintained a **0.5 profit margin**, indicating positive profitability performance.
+- Evaluated sales distribution across regions, customer segments, and product categories.
+- Analyzed the relationship between discount strategies and profitability to support better business decisions.
+- Provided interactive visualization to support data-driven decision-making.
 
 ---
 
