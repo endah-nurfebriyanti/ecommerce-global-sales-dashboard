@@ -1,7 +1,7 @@
 # E-Commerce Global Sales Dashboard
 
 ![Google Looker Studio](https://img.shields.io/badge/Google%20Looker%20Studio-Dashboard-blue)
-![Data Analytics](https://img.shields.io/badge/Data%20Analytics-Portfolio-green)
+![Data Analytics]([https://img.shields.io/badge/Data%20Analytics-Portfolio-green](https://endah-nurfebriyanti.github.io/))
 ![Business Intelligence](https://img.shields.io/badge/Business%20Intelligence-Project-orange)
 
 Interactive Google Looker Studio Dashboard for analyzing **USD 8.02M global e-commerce sales** with insights into sales performance, profitability, customer segments, regional distribution, product categories, and discount strategies.
@@ -227,9 +227,13 @@ Research Interests:
 
 ## 📬 Contact
 
-- LinkedIn: https://www.linkedin.com/in/endah-nurfebriyanti
-- GitHub: https://github.com/endah-nurfebriyanti
+📧 **Email:** endahnurfebriyanti@gmail.com
 
+💼 LinkedIn:
+www.linkedin.com/in/endah-nurfebriyanti-5b8200134
+
+🌐 Portfolio:
+https://endah-nurfebriyanti.github.io/
 ---
 
 ⭐ If you find this project useful, feel free to give it a star!
