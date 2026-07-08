@@ -1,8 +1,12 @@
 # E-Commerce Global Sales Dashboard
 
-Interactive **Google Looker Studio Dashboard** for analyzing **USD 8.02M global e-commerce sales** with insights into sales performance, profitability, customer segments, regional distribution, product categories, and discount strategies.
+Interactive Google Looker Studio Dashboard for analyzing **USD 8.02M global e-commerce sales** with insights into sales performance, profitability, customer segments, regional distribution, product categories, and discount strategies.
 
-![Dashboard Preview](dashboard/dashboard_preview.png)
+## 📊 Dashboard Preview
+
+<p align="center">
+  <img src="dashboard/dashboard_preview.png" width="1000"/>
+</p>
 
 ---
 
