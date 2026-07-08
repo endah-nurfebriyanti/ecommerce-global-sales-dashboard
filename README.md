@@ -158,8 +158,9 @@ The dataset contains global e-commerce transaction data with information includi
 - Geographic regions
 
 Dataset Source:
+The dataset is available in this repository:
 
-(Add dataset source link)
+📂 `dataset/ecommerce_global_sales_data.xlsx`
 
 ---
 
