@@ -1,6 +1,6 @@
 # E-Commerce Global Sales Dashboard
 
-[![Google Looker Studio](https://img.shields.io/badge/Google%20Looker%20Studio-Visualization-4285F4?logo=google&logoColor=white)]([YOUR_LOOKER_STUDIO_LINK](https://datastudio.google.com/reporting/93749ec1-784f-42a1-aba0-af188bc19fa2)) [![Data Analytics](https://img.shields.io/badge/Data%20Analytics-Portfolio-success)](https://github.com/endah-nurfebriyanti) [![Business Intelligence](https://img.shields.io/badge/Business%20Intelligence-Dashboard-orange)](https://github.com/endah-nurfebriyanti)
+[![Google Looker Studio](https://img.shields.io/badge/Google%20Looker%20Studio-Visualization-4285F4?logo=google&logoColor=white)](https://datastudio.google.com/u/0/reporting/93749ec1-784f-42a1-aba0-af188bc19fa2) [![Data Analytics](https://img.shields.io/badge/Data%20Analytics-Portfolio-success)](https://github.com/endah-nurfebriyanti) [![Business Intelligence](https://img.shields.io/badge/Business%20Intelligence-Dashboard-orange)](https://github.com/endah-nurfebriyanti)
 
 Interactive Google Looker Studio Dashboard for analyzing **USD 8.02M global e-commerce sales** with insights into sales performance, profitability, customer segments, regional distribution, product categories, and discount strategies.
 
