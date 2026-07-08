@@ -198,7 +198,7 @@ ecommerce-global-sales-dashboard/
 
 Google Looker Studio Dashboard:
 
-🔗 [View Interactive Dashboard](YOUR_LOOKER_STUDIO_LINK)
+🔗 [View Interactive Dashboard](https://datastudio.google.com/reporting/93749ec1-784f-42a1-aba0-af188bc19fa2)
 
 ---
 
@@ -219,9 +219,8 @@ Research Interests:
 
 ## 📬 Contact
 
-- LinkedIn: YOUR_LINKEDIN_URL
-- Google Scholar: YOUR_GOOGLE_SCHOLAR_URL
-- GitHub: YOUR_GITHUB_URL
+- LinkedIn: https://www.linkedin.com/in/endah-nurfebriyanti
+- GitHub: https://github.com/endah-nurfebriyanti
 
 ---
 
