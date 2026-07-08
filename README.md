@@ -228,7 +228,7 @@ Research Interests:
 📧 **Email:** endahnurfebriyanti@gmail.com
 
 💼 LinkedIn:
-www.linkedin.com/in/endah-nurfebriyanti-5b8200134
+[www.linkedin.com/in/endah-nurfebriyanti-5b8200134](https://www.linkedin.com/in/endah-nurfebriyanti/)
 
 🌐 Portfolio:
 https://endah-nurfebriyanti.github.io/
