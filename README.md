@@ -204,7 +204,7 @@ Google Looker Studio Dashboard:
 
 ## 👩‍💻 Author
 
-**Endah Nurfebriyanti, S.Mat.**
+**Endah Nurfebriyanti, S.Mat.,M.Si.**
 
 Mathematics | Data Analytics | Business Intelligence
 
